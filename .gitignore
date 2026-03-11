@@ -48,7 +48,7 @@ busco_downloads/
 *.mafft.clipkit
 .env
 .claude/worktrees/
-
+.agents/
 
 
 
